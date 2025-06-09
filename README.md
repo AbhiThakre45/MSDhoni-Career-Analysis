@@ -69,7 +69,24 @@ This Power BI project delivers an interactive visual analysis of former Indian c
 
 ## 📁 **Files Included**
 
-- 'MSDhoni_Career_Analysis.pbix'– Power BI dashboard file
-- [MS Dhoni Career Dashboard](MSDhoni_Career_Analysis_Dashboard.png)
+- [MSDhoni_Career_Analysis_file](MSDhoni_Career_Analysis.pbix) PowerBI file with raw data, Charts,Slicers,Cards and final dashboard
+- [MS Dhoni Career Dashboard](MSDhoni_Career_Analysis_Dashboard.png) Dashboard image preview
+- [Readme File](README.md) Project documentation
+
+---
+
+## 📬 **Contact**
+
+ **Abhishek Thakre**  
+📧 abhishekthakre56989@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/abhishek-thakre13)  
+💻 [GitHub](https://github.com/AbhiThakre45)
+
+---
+
+## 📌 **Note**
+
+*This project demonstrates real-time sports analytics using Power BI, highlighting effective storytelling through data visualization.*
+
 
 
