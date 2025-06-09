@@ -53,4 +53,22 @@ This Power BI project delivers an interactive visual analysis of former Indian c
 
 ## 📸 **Dashboard Preview**
 
-![MS Dhoni Career Dashboard](S)
+![MS Dhoni Career Analysis Dashboard](MSDhoni_Career_Analysis_Dashboard.png)
+
+---
+
+## 🎯 **Key Insights**
+
+- MS Dhoni scored the **most runs in 2007** with 1751+ total.
+- **Batting at position 6** brought the highest number of runs (6K).
+- Best strike rate (138) recorded against **Afghanistan**.
+- ODI format dominates his scoring with over **11K runs**.
+- Performance visualized across various international teams.
+
+---
+
+## 📁 **Files Included**
+
+- MSD Career.pbix – Power BI dashboard file
+- Screenshot (200).png – Dashboard visual preview
+
