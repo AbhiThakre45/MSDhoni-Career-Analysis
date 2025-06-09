@@ -37,3 +37,20 @@ This Power BI project delivers an interactive visual analysis of former Indian c
 - **Bar Chart:** Strike rate against each opposition
 
 - **Slicers:** Match Type, Opposition
+
+---
+
+# 🔧 **Tools & Technologies**
+- **Power BI Desktop**
+
+- **DAX (for KPIs and calculated columns)**
+
+- **Excel (for raw data preparation)**
+
+- **Custom Themes & Interactive Slicers**
+
+---
+
+## 📸 **Dashboard Preview**
+
+![MS Dhoni Career Dashboard](S)
