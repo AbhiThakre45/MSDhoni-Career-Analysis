@@ -77,8 +77,7 @@ This Power BI project delivers an interactive visual analysis of former Indian c
 
 ## 📬 **Contact**
 
- **Abhishek Thakre**  
-📧 abhishekthakre56989@gmail.com  
+ **Abhishek Thakre**   
 🔗 [LinkedIn](https://www.linkedin.com/in/abhishek-thakre13)  
 💻 [GitHub](https://github.com/AbhiThakre45)
 
