@@ -69,6 +69,6 @@ This Power BI project delivers an interactive visual analysis of former Indian c
 
 ## 📁 **Files Included**
 
-- MSD Career.pbix – Power BI dashboard file
-- Screenshot (200).png – Dashboard visual preview
+- 'MSDhoni_Career_Analysis.pbix'– Power BI dashboard file
+- (MSDhoni_Career_Analysis_Dashboard.png) – Dashboard visual preview
 
